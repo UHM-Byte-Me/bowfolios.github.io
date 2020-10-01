@@ -13,21 +13,20 @@ Once we implement the above UI elements, we will edit the homepage to display ex
 
 #### Homepage
 
-![](pagesImages\homescreen.png)
-<img src="pagesImages\homescreen.png" width="40%">
+<img src="pagesImages\homescreen.png" width="50%">
 
 #### Log in / Sign up
 
-![](pagesImages\login.png)
+<img src="pagesImages\login.png" width="50%">
 
 #### Sidebar
 
-![](pagesImages\Sidebar.png)
+<img src="pagesImages\Sidebar.png" width="50%">
 
 #### Edit your profile
 
-![](pagesImages\yourprofile.png)
+<img src="pagesImages\yourprofile.png" width="50%">
 
 #### Add a project
 
-![](pagesImages\addproject.png)
+<img src="pagesImages\addproject.png" width="50%">
