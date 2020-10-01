@@ -14,6 +14,7 @@ Once we implement the above UI elements, we will edit the homepage to display ex
 #### Homepage
 
 ![](pagesImages\homescreen.png)
+<img src="pagesImages\homescreen.png" width="40%">
 
 #### Log in / Sign up
 
