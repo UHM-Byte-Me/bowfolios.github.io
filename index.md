@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Bowfolios
 
-You can use the [editor on GitHub](https://github.com/UHM-Byte-Me/bowfolios.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Intro
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Currently the project has several UI elements as well as the back end to support future development.
+Current features include the ability for a user to sign up or log in, navigate between pages, create a their profile and add a project.
 
-### Markdown
+### Future development
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We would need to implement the UI to display all the user profiles, projects, interests, and filter. We have the supporting back end to display the data, but we still need to implement the map functions.
 
-```markdown
-Syntax highlighted code block
+Once we implement the above UI elements, we will edit the homepage to display examples of them, instead of placeholder images featuring the web version.
 
-# Header 1
-## Header 2
-### Header 3
+#### Homepage
 
-- Bulleted
-- List
+![](pagesImages\homescreen.png)
 
-1. Numbered
-2. List
+#### Log in / Sign up
 
-**Bold** and _Italic_ and `Code` text
+![](pagesImages\login.png)
 
-[Link](url) and ![Image](src)
-```
+#### Sidebar
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![](pagesImages\Sidebar.png)
 
-### Jekyll Themes
+#### Edit your profile
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UHM-Byte-Me/bowfolios.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![](pagesImages\yourprofile.png)
 
-### Support or Contact
+#### Add a project
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![](pagesImages\addproject.png)
